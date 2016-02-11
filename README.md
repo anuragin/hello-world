@@ -1,2 +1,6 @@
 # hello-world
-Tradition Lives
+The tradition lives
+
+#include <stdio.h> 
+
+main() { printf("Hello, world.\n"); }
